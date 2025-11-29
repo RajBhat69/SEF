@@ -13,3 +13,8 @@ void train() {
 void predict() {
     printf("predict\n");
 }
+
+void train() {
+    printf("train\n");
+    printf("The first feature is added\n");
+}
